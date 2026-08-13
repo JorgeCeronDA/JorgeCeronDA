@@ -1,4 +1,4 @@
-## Hola Soy Jorge Cerón 👋
+## Hola Soy Jorge Alberto Cerón Albarrán 👋
 
 <!--
 **JorgeCeronDA/JorgeCeronDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 SKILLS:
 
-![Static Badge](https://img.shields.io/badge/-PYTHON-%23232795F5%20)   ![Static Badge](https://img.shields.io/badge/-SQL-%23F58B27)   ![Static Badge](https://img.shields.io/badge/-EXCEL-GREEN)
+![Static Badge](https://img.shields.io/badge/-PYTHON-%23232795F5%20)   ![Static Badge](https://img.shields.io/badge/-SQL-%23F58B27)   ![Static Badge](https://img.shields.io/badge/-EXCEL-GREEN)  https://img.shields.io/badge/POWER%20BI%20-%20grey
+
 
 
 
