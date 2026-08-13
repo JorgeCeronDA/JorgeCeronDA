@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 SKILLS:
 
-![Static Badge](https://img.shields.io/badge/-PYTHON-%23232795F5%20)   ![Static Badge](https://img.shields.io/badge/-SQL-%23F58B27)   ![Static Badge](https://img.shields.io/badge/-EXCEL-GREEN)  https://img.shields.io/badge/POWER%20BI%20-%20grey
+![Static Badge](https://img.shields.io/badge/-PYTHON-%23232795F5%20)   ![Static Badge](https://img.shields.io/badge/-SQL-%23F58B27)   ![Static Badge](https://img.shields.io/badge/-EXCEL-GREEN)  ![Static Badge](https://img.shields.io/badge/POWER%20BI%20-%20grey)
+
 
 
 
