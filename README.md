@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🖥️ Estudiante de Analista de Datos en TripleTen.
 - 🧬 Con una Maestría en Ciencias en Biomedicina y Biotecnología Molecular por el IPN
 - 🧪 Licenciatura en Bioquímica Diagnóstica por la UNAM
-- 👯 Buscando colaborar en poryectos para seguir creciendo
-- 🧬+💻 Conocimientos en bioinformática y analisis de bases de datos ómicas
+- 👯 Buscando colaborar en proyectos para seguir creciendo
+- 🧬+💻 Conocimientos en bioinformática y análisis de bases de datos ómicas
 - 📫 Mi correo es ceron330393@gmail.com
 - ⚡ Fun fact: 🏃 Maratones, ⚽ Fútbol, 🐶 Animales
 
