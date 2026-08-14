@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 🖥️ Estudiante de Analista de Datos en TripleTen.
+- 🖥️ Egresado de Analista de Datos en TripleTen.
 - 🧬 Con una Maestría en Ciencias en Biomedicina y Biotecnología Molecular por el IPN
 - 🧪 Licenciatura en Bioquímica Diagnóstica por la UNAM
 - 👯 Buscando colaborar en proyectos para seguir creciendo
